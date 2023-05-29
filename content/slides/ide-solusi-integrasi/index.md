@@ -11,7 +11,7 @@ image:
 ---
 # Hi
 
-Hi [Ide Solusi](https://www.idesolusi.co.id/)
+Hi [Ismail](https://www.stalford.com/)
 
 w﻿ithin netlify, i have a GUI to edit
 
