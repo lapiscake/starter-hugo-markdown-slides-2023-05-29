@@ -13,7 +13,7 @@ image:
 
 Hi [Ide Solusi](https://www.idesolusi.co.id/)
 
-w﻿ithin netlify, there's GUI to edit
+w﻿ithin netlify, i have a GUI to edit
 
 ---
 
