@@ -13,10 +13,10 @@ Hi there [Ide Solusi Integrasi](https://www.idesolusi.co.id/)
 
 w﻿ithin netlify, there's GUI to edit
 
-\-﻿--
+'-﻿--'
 
 i﻿f you build the website, will i have some GUI to edit my posts?
 
-\-﻿--
+'---'
 
 o﻿r does it depend on where you (or I) host?
