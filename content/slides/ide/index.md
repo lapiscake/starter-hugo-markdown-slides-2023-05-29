@@ -31,4 +31,4 @@ does it depend on where you (or I) host?
 
 ## else
 
-w﻿hat can i do to proceed?
+w﻿hat can i do to learn more?
