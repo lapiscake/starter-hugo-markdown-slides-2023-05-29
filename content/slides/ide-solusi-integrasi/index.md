@@ -27,8 +27,8 @@ you build the website, will i have some GUI to edit my posts?
 
 does it depend on where you (or I) host?
 
--﻿--
+---
 
-#﻿# else
+## else
 
 w﻿hat can i do to proceed?
