@@ -3,7 +3,7 @@ title: Ide
 date: 2023-05-29T12:15:50.286Z
 draft: false
 slides:
-  theme: white
+  theme: yellow
 image:
   filename: featured
   focal_point: Smart
