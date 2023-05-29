@@ -1,6 +1,6 @@
 ---
 title: Ide
-date: 2023-05-29T12:15:50.286Z
+date: 2023-05-29T13:04:25.314Z
 draft: false
 slides:
   theme: black
