@@ -1,5 +1,5 @@
 ---
-title: Ide Solusi Integrasi
+title: Ide
 date: 2023-05-29T12:15:50.286Z
 draft: false
 slides:
